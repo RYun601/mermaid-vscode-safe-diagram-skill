@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Mermaid VSCode 安全流程图
+  short_description: 生成在 VS Code 中稳定渲染的 Mermaid 图
+  default_prompt: 请按 Mermaid VSCode 安全规范生成流程图，优先保证预览可渲染与语法稳定。
