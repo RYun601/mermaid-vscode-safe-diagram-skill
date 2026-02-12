@@ -19,7 +19,8 @@ python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github
 Windows 示例：
 
 ```powershell
-python C:\Users\<你的用户名>\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo RYun601/mermaid-vscode-safe-diagram-skill --path skills/mermaid-vscode-safe-diagram
+python "$HOME/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py" --repo "RYun601/mermaid-vscode-safe-diagram-skill" --path "skills/mermaid-vscode-safe-diagram"
+
 ```
 
 ### 方式2：手动安装
