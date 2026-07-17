@@ -1,6 +1,6 @@
 # mermaid-vscode-safe-diagram-skill
 
-一个可安装的 Codex Skill，用于在 VS Code 的 `Markdown Preview Mermaid Support` 插件下稳定生成 Mermaid 流程图/脑图，尽量避免 `Parse error`。
+一个可安装的 Agent Skill，用于在 VS Code 的 `Markdown Preview Mermaid Support` 插件下稳定生成 Mermaid 流程图/脑图，尽量避免 `Parse error`。
 
 ## Skill 路径
 
